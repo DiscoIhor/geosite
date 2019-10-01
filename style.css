@@ -1,17 +1,18 @@
-.col-4 {
+.col-img img {
     justify-content: center;
     align-items: center;
-}
-
-.col-4 img {
     margin-left: 120px;
 }
 
 .map-mark {
+    justify-content: center;
+    align-items: center;
     display: flex;
 }
 
 .phone-numer {
+    justify-content: center;
+    align-items: center;
     display: flex;
 }
 
@@ -44,4 +45,163 @@
 .main-image img {
     width: 100%;
     height: 500px;
+}
+
+.service {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service span {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.content-tittle {
+    display: flex;
+    width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content-tittle-geodesy{
+    display: flex;
+    width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content-first-tittle {
+    color: #90cc86;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.content-tittle-first{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-second{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-third{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-first-geodesy{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-second-geodesy{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-third-geodesy{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-force{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-fives{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.content-tittle-six{
+    font-size: 35px;
+    color: #90cc86;
+}
+
+.main-content-geodesy {
+    border-color: coral;
+    border-right-color: white;
+    border-style: dotted;
+}
+
+.main-content-geodesy2 {
+    border-color: coral;
+    border-right-color: white;
+    border-style: dotted;
+}
+
+.main-content-geodesy3 {
+    border-color: coral;
+    border-style: dotted;
+}
+
+
+.main-content-land-management {
+    /*background-color: coral;*/
+    border-color: coral;
+    border-right-color: white;
+    border-style: dotted;
+}
+
+.main-content-land-management2 {
+    /*background-color: coral;*/
+    border-color: coral;
+    border-right-color: white;
+    border-style: dotted;
+}
+
+.main-content-land-management3 {
+    /*background-color: coral;*/
+    border-color: coral;
+    border-style: dotted;
+}
+
+.main-content-land-management4 {
+    /*background-color: coral;*/
+    border-color: coral;
+    border-right-color: white;
+    border-top-color: white;
+    border-style: dotted;
+}
+
+.main-content-land-management5 {
+    /*background-color: coral;*/
+    border-color: coral;
+    border-right-color: white;
+    border-top-color: white;
+    border-style: dotted;
+}
+
+.main-content-land-management6 {
+    /*background-color: coral;*/
+    border-color: coral;
+    border-top-color: white;
+    border-style: dotted;
+}
+
+.main-image2 {
+    display: flex;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-image2 img {
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
