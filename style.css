@@ -202,6 +202,38 @@
 
 .about-us {
     display: flex;
-    justify-content: center;
+    width: 70%;
+    flex-wrap: wrap;
+    justify-content: flex-start;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-us h2 {
+    margin-left: +47%;
+}
+
+.about-us-image {
+    display: flex;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+}
+
+.map{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 200px;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map iframe{
+    left:0;
+    top:0;
+    position:absolute;
 }
