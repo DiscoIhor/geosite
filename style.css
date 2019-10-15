@@ -225,8 +225,8 @@
 .map{
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
@@ -236,4 +236,10 @@
     left:0;
     top:0;
     position:absolute;
+}
+
+.contacts {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
 }

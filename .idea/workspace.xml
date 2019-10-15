@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scrypt.js" beforeDir="false" afterPath="$PROJECT_DIR$/scrypt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,9 @@
       <workItem from="1570006359336" duration="615000" />
       <workItem from="1570021920198" duration="4556000" />
       <workItem from="1570449479108" duration="6772000" />
-      <workItem from="1571127586969" duration="1826000" />
+      <workItem from="1571127586969" duration="2010000" />
+      <workItem from="1571129646255" duration="9882000" />
+      <workItem from="1571147769839" duration="603000" />
     </task>
     <servers />
   </component>
