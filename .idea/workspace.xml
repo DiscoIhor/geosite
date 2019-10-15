@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f6bb8f13-3312-483c-b5cf-f0ea90c8c28a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrypt.js" beforeDir="false" afterPath="$PROJECT_DIR$/scrypt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
@@ -62,7 +63,9 @@
       <workItem from="1569842751757" duration="11693000" />
       <workItem from="1569914949556" duration="10733000" />
       <workItem from="1570006359336" duration="615000" />
-      <workItem from="1570021920198" duration="3892000" />
+      <workItem from="1570021920198" duration="4556000" />
+      <workItem from="1570449479108" duration="6772000" />
+      <workItem from="1571127586969" duration="1826000" />
     </task>
     <servers />
   </component>

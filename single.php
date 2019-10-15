@@ -30,16 +30,16 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav text-center">
                 <li class="nav-item">
-                    <a class="nav-link" href="#link-1">Главная</a>
+                    <a class="nav-link" href="#link-1" onclick="scrollMain()">Главная</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#link-2">Услуги</a>
+                    <a class="nav-link" href="#link-2" onclick="scrollServices()">Услуги</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#link-3">О нас</a>
+                    <a class="nav-link" href="#link-3" onclick="scrollAboutus()">О нас</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#link-4">Контакты</a>
+                    <a class="nav-link" href="#link-4" onclick="scrollContact()">Контакты</a>
                 </li>
             </ul>
         </div>
@@ -202,6 +202,6 @@
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1340.4982680791545!2d35.18183977608236!3d47.7815151947737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dc5ef93b76873d%3A0x78311593ef9d95c!2sNovokuznetska%20Street%2C%2021%2C%20Zaporizhzhia%2C%20Zaporiz&#39;ka%20oblast%2C%2069000!5e0!3m2!1sen!2sua!4v1570024766409!5m2!1sen!2sua" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 <footer>
-    https://goo.gl/maps/AHtHebz2iucm9BZa6
+    <script src="scrypt.js" crossorigin="anonymous"></script>
 </footer>
 <?php
