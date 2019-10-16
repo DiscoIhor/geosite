@@ -1,7 +1,6 @@
-.col-img img {
+.col-img {
+    display: flex;
     justify-content: center;
-    align-items: center;
-    margin-left: 120px;
 }
 
 .map-mark {
@@ -211,7 +210,8 @@
 }
 
 .about-us h2 {
-    margin-left: +47%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .about-us-image {
@@ -225,21 +225,33 @@
 .map{
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
-    height: 300px;
+    width: 100%;
     overflow:hidden;
-    padding-bottom:56.25%;
     position:relative;
-    height:0;
+    padding-bottom: 450px;
 }
 .map iframe{
     left:0;
     top:0;
     position:absolute;
+
 }
 
 .contacts {
-    display: flex;
     margin-right: auto;
     margin-left: auto;
+}
+
+.contacts h2 {
+    text-align: center;
+}
+
+.contacts p {
+    font-size: 15px;
+    font-weight: bold;
+    color: #90cc86;
+}
+
+.collapse {
+    justify-content: center;
 }

@@ -22,7 +22,7 @@
 </head>
 <body>
 <header>
-    <nav class="navbar navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg ">
         <button class="navbar-toggler ml-auto mr-auto" type="button" data-toggle="collapse" data-target="#navbar"
                 aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -170,49 +170,35 @@
     <h2>
         Контакты
     </h2>
-    <div class="container">
+    <div class="container-fluid bg-dark">
         <div class="row">
-            <div class="col-3">
+            <div class="col-6" style="align-self: center; text-align: center">
                 <p>
-                    Пн - Вс
+                    Пн - Вс: 9:00-18:00
                 </p>
-                <p>
-                    9:00-18:00
-                </p>
-            </div>
-            <div class="col-3">
                     <p>
                         ул Новокузнецкая 21/16
                     </p>
                     <p>
-                        Запорожье
+                        <i class="fas fa-flag"></i>
+                        Украина г. Запорожье
                     </p>
-                    <p>
-                        Украина
-                    </p>
-            </div>
-            <div class="col-3">
                 <p>
-                    тел.:
+                    тел.: +380 96 5396848, +380 99 0781841
                 </p>
                 <p>
-                    +380 96 5396848
-                </p>
-                <p>
-                    +380 99 0781841
+                   Email: <a href="mail.php">frendpon@gmail.com</a>
                 </p>
             </div>
-            <div class="col-3">
-                <p>
-                    <a href="frendpon@gmail.com">frendpon@gmail.com</a>
-                </p>
+            <div class="col-6">
+                <div class="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1340.4982680791545!2d35.18183977608236!3d47.7815151947737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dc5ef93b76873d%3A0x78311593ef9d95c!2sNovokuznetska%20Street%2C%2021%2C%20Zaporizhzhia%2C%20Zaporiz&#39;ka%20oblast%2C%2069000!5e0!3m2!1sen!2sua!4v1570024766409!5m2!1sen!2sua"
+                            width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                </div>
+
             </div>
         </div>
     </div>
-</div>
-<div class="map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1340.4982680791545!2d35.18183977608236!3d47.7815151947737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40dc5ef93b76873d%3A0x78311593ef9d95c!2sNovokuznetska%20Street%2C%2021%2C%20Zaporizhzhia%2C%20Zaporiz&#39;ka%20oblast%2C%2069000!5e0!3m2!1sen!2sua!4v1570024766409!5m2!1sen!2sua"
-            width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>
 <footer>
     <script src="scrypt.js" crossorigin="anonymous"></script>

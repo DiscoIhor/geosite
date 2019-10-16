@@ -1,3 +1,7 @@
+var width = window.innerWidth
+    || document.documentElement.clientWidth
+    || document.body.clientWidth;
+
 function scrollMain() {
     window.scrollTo(0, 0);
 }
@@ -7,7 +11,7 @@ function  scrollServices() {
 }
 
 function  scrollAboutus() {
-    window.scrollTo(0, 2028);
+    window.scrollTo(0, 2015);
 }
 
 function  scrollContact() {
