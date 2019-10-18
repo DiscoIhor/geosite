@@ -231,6 +231,7 @@
     padding-bottom: 450px;
 }
 .map iframe{
+    padding: 10px 0;
     left:0;
     top:0;
     position:absolute;
